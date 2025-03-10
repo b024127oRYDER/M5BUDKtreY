@@ -39,7 +39,6 @@ type
     property OAuthScope: String read FOAuthScope write SetOAuthScope;
 
     { Get or set the current service account }
-    property ServiceAccount: String read FServiceAccount write SetServiceAccount;
 
     { Get or set the current private key }
     property PrivateKey: String read FPrivateKey write SetPrivateKey;
