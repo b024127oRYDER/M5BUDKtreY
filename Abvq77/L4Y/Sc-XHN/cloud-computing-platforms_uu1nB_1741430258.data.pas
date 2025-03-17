@@ -57,7 +57,6 @@ uses
 
 constructor TgoGoogle.Create;
 begin
-  FLastToken := -1;
   FTokenExpiresInSec := 0;
 end;
 
