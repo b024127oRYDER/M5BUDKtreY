@@ -2565,7 +2565,6 @@
         "globrex": "^0.1.2",
         "tsconfck": "^3.0.3"
       },
-      "peerDependencies": {
         "vite": "*"
       },
       "peerDependenciesMeta": {
