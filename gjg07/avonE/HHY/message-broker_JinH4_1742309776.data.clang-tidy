@@ -40,7 +40,6 @@ Checks: >
   modernize-replace-disallow-copy-and-assign-macro,
   modernize-return-braced-init-list,
   modernize-shrink-to-fit,
-  modernize-unary-static-assert,
   modernize-use-emplace,
   modernize-use-equals-delete,
   modernize-use-noexcept,
