@@ -262,7 +262,6 @@ sop_reg_names, sop_reg_mets, sop_reg_recall, sop_reg_recall_err = give_reg_metr(
 #         lim  = [np.min(met)*0.9, np.max(met)*1.1]
 #         x    = np.linspace(lim[0], lim[1], 50)
 #         linfit = m*x + b
-#         return sort, corr, linfit, x, lim
 #
 #     intra_sort, intra_corr, intra_linfit, intra_x, intra_lim = comp(intra)
 #     inter_sort, inter_corr, inter_linfit, inter_x, inter_lim = comp(inter)
